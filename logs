@@ -1,0 +1,500 @@
+   11  git add file1
+   12  git status
+   13  git commit -m "added a new file called file1"
+   14  git commit -m "added a new file"
+   15  git cinfig --global user.email "poonamgondavale@gmail.com"
+   16  git config  --global user.email "poonamgondavale@gmail.com"
+   17  git config --global user.name "poonam7333"
+   18  git commit -m "added a new file"
+   19  git push
+   20  git push
+   21  touch file2
+   22  ls
+   23  git status
+   24  git add file2
+   25  git status
+   26  git commit -m "added a one more new file"
+   27  git push
+   28  touch file3
+   29  ls
+   30  get add file3
+   31  git add file3
+   32  git status
+   33  git commit -m "added new file called file3"
+   34  git push
+   35  git pull
+   36  ls
+   37  git pull
+   38  touch file4
+   39  ls
+   40  git pull
+   41  touch demo
+   42  ls
+   43  git add demo
+   44  git status
+   45  git commit -m "Hi..i m demo"
+   46  ls
+   47  git push
+   48  git pull
+   49  ls
+   50  git push
+   51  git branch
+   52  git branch -a
+   53  git branch feature
+   54  git branch 
+   55  git checkout feature
+   56  git branch
+   57  ls
+   58  touch test
+   59  git add .
+   60  git commit -m "added test file to feature"
+   61  ls
+   62  git checkout main
+   63  ls
+   64  git checkout feature
+   65  ls
+   66  git push
+   67  git push origin feature
+   68  checkout feature
+   69  git checkout feature
+   70  git checkout main
+   71  ls
+   72  rm -f file4
+   73  ls
+   74  ls -a
+   75  ls
+   76  touch file5
+   77  ls
+   78  git status
+   79  git add file5
+   80  git status
+   81  git commit -m "I am file5"
+   82  git push
+   83  git pull
+   84  touch file6
+   85  git pull file6
+   86  git pull
+   87  rm -f file6
+   88  ls
+   89  git branch
+   90  git branch -a
+   91  git branch veer
+   92  git branch
+   93  ls
+   94  touch test1
+   95  rm -f test1
+   96  ls
+   97  git checkout veer
+   98  touch test1
+   99  git add.
+  100  git add .
+  101  git commit -m "I am file test1"
+  102  ls
+  103  git checkout main
+  104  ls
+  105  git checkout veer
+  106  ls
+  107  git push
+  108  git push origin veer
+  109  git checkout main
+  110  git branch
+  111  ls
+  112  cd devopsdemo
+  113  git branch
+  114  ls
+  115  git checkout feature
+  116  ls
+  117  git checkout main
+  118  git diff feature
+  119  git merge feature
+  120  ls
+  121  git checkout feature
+  122  ls
+  123  git merge main
+  124  ls
+  125  git checkout main
+  126  git checkout -b develop
+  127  ls
+  128  git branch
+  129  git brnach -d feature
+  130  git branch -d feature
+  131  git branch
+  132  git checkout main
+  133  git branch
+  134  `
+  135  main
+  136  git branch
+  137  git checkout feature
+  138  touch veeresh123
+  139  git add .
+  140  git commit -m "I ma Veeresh"
+  141  git push
+  142  git checkout -
+  143  git checkout veer
+  144  git branch
+  145  git checkout feature
+  146  ls
+  147  git checkout main
+  148  ls
+  149  git diff veer
+  150  rm -f file4
+  151  ls
+  152  git diff veer
+  153  git merge veer
+  154  git diff veer
+  155  ls
+  156  vi file1
+  157  git add .
+  158  git commit -m "modified file"
+  159  git checkout veer
+  160  vi file1
+  161  cat file1
+  162  hello world
+  163  cat > file1
+  164  git checkout main
+  165  cat > file1
+  166  git add .
+  167  git commit -m "modified file1 on veer"
+  168  git checkout main
+  169  cat file1
+  170  git diff veer
+  171  cat file1
+  172  cat > file1
+  173  git diff veer
+  174  cat file1
+  175  git branch -d veer
+  176  git branch -D veer
+  177  git branch Poonam
+  178  git branch
+  179  git checkout Poonam
+  180  git branch
+  181  ls
+  182  git checkout -
+  183  ls
+  184  git checkout -
+  185  touch filenew
+  186  git add .
+  187  git commit -m "I am filenew"
+  188  git push filenew
+  189  git push
+  190  git push origin Poonam
+  191  git checkout -
+  192  ls
+  193  git diff Poonam
+  194  rm -f file1
+  195  ls
+  196  git diff Poonam
+  197  git merge Poonam
+  198  git diff Poonam
+  199  ls
+  200  vi file1
+  201  git add .
+  202  git commit -m "i am modified again"
+  203  cat > file1
+  204  git diff Poonam
+  205  cat file1
+  206  git diff Poonam
+  207  cat file1
+  208  rm -f file1
+  209  ls
+  210  git checkout -
+  211  ls
+  212  git checkout -
+  213  git checkout -
+  214  rm -f file1 D
+  215  ls
+  216  git checkout -
+  217  git checkout -
+  218  git checkout -
+  219  git checkout -
+  220  git checkout -
+  221  git branch -d Poonam
+  222  git branch
+  223  git checkout feature
+  224  git branch
+  225  ls
+  226  rm -f file1
+  227  ls
+  228  git checkout main
+  229  ls
+  230  rm -f file1
+  231  ls
+  232  git checkout -
+  233  ls
+  234  rm -f file1 brnach feature
+  235  ls
+  236  git checout -
+  237  git diff feature
+  238  git merge feature
+  239  ls
+  240  vi file1
+  241  vi file2
+  242  git add .
+  243  git commit -m "i am modified file2"
+  244  git commit -m "i am modified file2"
+  245  clear
+  246  git checkout main
+  247  ls
+  248  rm -f file1
+  249  ls
+  250  git diff feature
+  251  git merge feature
+  252  vi file1
+  253  git add .
+  254  git rm file1
+  255  git commit
+  256  git diff feature
+  257  git merge feature
+  258  ls
+  259  vi file3
+  260  cat > file3
+  261  vi file3
+  262  git add .
+  263  git commit -m "modified file3"
+  264  git checkout feature
+  265  vi file3
+  266  cat file3
+  267  cat > file3
+  268  git checkout main
+  269  cat file1
+  270  cat file3
+  271  git add .
+  272  git commit -m "modified file3 on feature"
+  273  git checkout main
+  274  cat file3
+  275  git diff feature
+  276  cat file3
+  277   git diff feature
+  278  cat file3
+  279  git add .
+  280  clear
+  281  ls
+  282  rm -f file3 file4 file5 test1 veeresh123
+  283  ls
+  284  cat file2
+  285  ls
+  286  git checkout feature
+  287  ls
+  288  rm -f file3 file4
+  289  ls
+  290  git checkout -
+  291  ls
+  292  rm -f file3 file5 test1
+  293  ls
+  294  ls
+  295  git checkout -
+  296  ls
+  297  git rm file4.txt file3.txt
+  298  git rm -f file4
+  299  git commit -m "remove file4"
+  300  ls
+  301  git checkout main
+  302  git checkout feature
+  303  ls
+  304  git rm -f file3
+  305  git commit -m "remove file3"
+  306  ls
+  307  git checkout main
+  308  ls
+  309  git rm -f file3 file5 filenew test1
+  310  git commit -m "remove all this files"
+  311  ls
+  312  ls
+  313  clear
+  314  ls
+  315  git checkout feature
+  316  ls
+  317  git checkout -
+  318  ls
+  319  git diff feature
+  320  git merge feature
+  321  git merge feature
+  322  ls
+  323  vi file2
+  324  git add .
+  325  vi file2
+  326  git add .
+  327  git commit -m "modified file2"
+  328  git checkout -
+  329  git push
+  330  vi file2
+  331  cat > file2
+  332  git checkout -
+  333  cat file2
+  334  git add .
+  335  git commit -m "modified file2 on feature"
+  336  git checkout -
+  337  cat file2
+  338  git diff feature
+  339  cat file2
+  340  ls
+  341  cd devopsdemo
+  342  ls
+  343  git branch
+  344  git branch -d feature
+  345  git branch -D feature
+  346  git branch 
+  347  clear
+  348  ls
+  349  git branch feature
+  350  git branch 
+  351  git checkout feature
+  352  ls
+  353  git checkout main
+  354  ls
+  355  git branch -D feature
+  356  git branch
+  357  clear
+  358  ls
+  359  touch file1
+  360  git add .
+  361  git commit -m "I am file1"
+  362  git push
+  363  git push
+  364  clear
+  365  git clone https://github.com/poonam7333/devopsdemo.git
+  366  ls
+  367  cd devopsdemo
+  368  ls
+  369  touch file1
+  370  ls
+  371  git add .
+  372  git commit -m "i am file1"
+  373  git push
+  374  ls
+  375  clear
+  376  ls
+  377  git branch feature
+  378  git branch
+  379  git checkout feature
+  380  ls
+  381  git checkout main
+  382  git branch
+  383  git checkout -
+  384  touch testa
+  385  git add .
+  386  git commit -m "i am testa"
+  387  git push 
+  388  git push origin feature
+  389  ls
+  390  git checkout -
+  391  clear
+  392  ls
+  393  git branch
+  394  ls
+  395  touch test1
+  396  vi test1
+  397  cat test1
+  398  git stash save "worked on test1 file"
+  399  git add test1
+  400  git stash list
+  401  git stash save "worked on test1 file"
+  402  git stash list
+  403  ls
+  404  git checkout feature
+  405  git checkout main
+  406  ls
+  407  git stash apply stash@{0}
+  408  ls
+  409  cat test1
+  410  vi test1
+  411  git stash save "modified test1"
+  412  git stash list
+  413  git stash pop
+  414  ls
+  415  cat test1
+  416  git stash list
+  417  git stash drop stash@{0}
+  418  git stash clear
+  419  git log
+  420  git tag
+  421  git tag v1.1
+  422  git tag
+  423  git log
+  424  git tag v1.0 ab82f2a030e826106bc2315ac42729db37d41c47
+  425  git log
+  426  git push origin v1.0
+  427  git push origin --tags
+  428  git checkout -b feature1 v1.0
+  429  git checkout feature v1.0
+  430  git tag -d v1.0
+  431  git tag
+  432  git push origin --delete v1.1
+  433  git tags v1.2
+  434  git tag v1.2
+  435  git tag
+  436  git log
+  437  git tag v1.2 a181ddf628ad433f40851f0ac785d609264a6d0a
+  438  git checkout -b testbranch v1.2 
+  439  ls
+  440  git log
+  441  clear
+  442  git checkout -
+  443  ls
+  444  git branch
+  445  git checkout feature
+  446  ls
+  447  git checkout -
+  448  git diff feature
+  449  git merge feature
+  450  git diff feature
+  451  ls
+  452  vi test
+  453  cat test
+  454  git add .
+  455  git commit -m "i m modified test file"
+  456  git checkout -
+  457  vi test
+  458  cat test
+  459  git checkout -
+  460  cat test
+  461  git add .
+  462  git commit -m "i am modiefied test file in feature"
+  463  git checkout -
+  464  cat test
+  465  git diff feature
+  466  cat test
+  467  git add .
+  468  git commit -m "resolved merged conflicts"
+  469  ls
+  470  git checkout -b devdemo
+  471  ls
+  472  git checkout main
+  473  touch test2
+  474  git add .
+  475  git commit -m "added test2 to main"
+  476  git checkout devdemo
+  477  ls
+  478  touch test3
+  479  git add .
+  480  git commit -m "added test3 in devdemo"
+  481  ls
+  482  git checkout main
+  483  ls
+  484  git merge devdemo
+  485  ls
+  486  vi test2
+  487  git add .
+  488  git commit -m "modified test2"
+  489  git checkout devdemo
+  490  vi test2
+  491  git checkout main
+  492  git add .
+  493  git commit -m "modified test1"
+  494  git checkout main
+  495  git merge devdemo
+  496  git merge devdemo
+  497  vi test2
+  498  git add .
+  499  git commit -m "solved"
+  500  git checkout devdemo
+  501  ls
+  502  cat test2
+  503  git rebase main
+  504  cat test
+  505  vi test2
+  506  git add .
+  507  git commit -m 'v1'
+  508  git checkout main
+  509  git merge devdemo
+  510  history > logs
